@@ -8,6 +8,7 @@ ota mallia [täältä](https://github.com/HY-TKTL/TKT20007-Ohjelmistotuotantopro
 
 - [Discord kurssibotti](https://github.com/Ohtuproju2021syksy/Discord-Bot-better)
 - [Kierratysavustin](https://github.com/ohtuprojekti-Kierratysavustin/Kierratysavustin)
+- [ATLAS](https://github.com/ATLAS-ohtuprojekti/ATLAS)
 
 ### Dokumentaatio
 
